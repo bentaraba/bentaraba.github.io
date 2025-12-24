@@ -1,0 +1,12 @@
+---
+title: "My Portfolio"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: True
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---

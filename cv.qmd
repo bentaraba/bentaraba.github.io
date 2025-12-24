@@ -1,0 +1,6 @@
+---
+title: "CV/Resume"
+format: html
+---
+![](2025_Benjamin_Taraba_Resume_.pdf){width=100% height=1000px}
+---

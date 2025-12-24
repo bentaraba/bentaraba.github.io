@@ -1,0 +1,21 @@
+---
+title: "The Power of Pop - First Place and Best Presentation Award Winner "
+author: "Benjamin Taraba & Patrick Obal"
+date: "2025-4-15"
+categories: [Statistics, R, Analysis]
+image: "The-Post.jpg"
+---
+
+![](The-Post.jpg)
+
+2025 Temple University T.H.E. (Tourism, Hospitality, and Events) Analytics Case Competition.
+
+Worked with a real-world hotel dataset to quantify the impact of local events pop star concerts and festivals on hotel performance. Built an event calendar + KPI framework (occupancy, ADR, Revenue PAR) to identify lift, timing effects (lead/lag), and differences by event type. Summarized insights in a presentation and proposed revenue-management actions (dynamic pricing, targeted promos, staffing adjustments).
+
+![](Taraba_Obal_2025_Hotel_Case_Comp.pdf){width=100% height=1000px}
+
+[View Project Here](Taraba_Obal_2025_Hotel_Case_Comp.pdf){target="_blank"}
+
+[View Code Here](https://github.com/bentaraba/bentaraba.github.io/blob/main/THE%20Case%20Code.R){target="_blank"}
+
+![](THEwinpat.jpg) ![](TheBest.jpg)

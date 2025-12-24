@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: "docs"
+
+website:
+  title: "Benjamin Taraba"
+  navbar:
+    left:
+      - text: "Home"
+        file: index.qmd
+      - text: "Portfolio"
+        file: portfolio.qmd
+      - text: "CV/Resume"
+        file: cv.qmd
+    right:
+      - icon: github
+        href: https://github.com/bentaraba
+      - icon: linkedin
+        href: https://www.linkedin.com/in/benjamin-taraba/
+format:
+  html:
+    theme:
+      - lux
+    css: styles.css
+
+editor: visual
+

@@ -1,0 +1,12 @@
+---
+title: "Caffeine Effects on Reaction Time"
+author: "Benjamin Taraba, Reem Alhazmi, Jennifer Vaughn, Eli Howell, and Nick Ogden "
+date: "2024-12-9"
+categories: [Statistics, Analysis]
+
+---
+
+
+This project was developed to evaluate a common performance claim, whether caffeine measurably improves reaction time, and to determine whether any effect varies by the time elapsed after consumption. To test this, we designed a controlled two-factor experiment with three caffeine dose levels (0 mg, 100 mg, 200 mg) and three post-consumption testing intervals (15, 30, and 60 minutes). Reaction time was selected as the outcome variable due to its objective measurability using a standardized digital test (Just Park Reaction Time Test). To strengthen validity and reduce variability, participants were assigned to conditions using randomization, testing was conducted in a distraction-free environment, and multiple trials per condition were averaged to produce a more reliable reaction-time measure.
+
+![](Effect of Caffeine on Reaction Time Report.pdf){width=100% height=1000px}

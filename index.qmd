@@ -1,0 +1,16 @@
+---
+title: "Benjamin Taraba"
+format: html
+image: webhead.jpg
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/benjamin-taraba/
+    - icon: github
+      text: Github
+      href: https://github.com/bentaraba
+---
+
+Beta Gamma Sigma Honor Society | Senior at Temple University | Finance Major and Business Analytics Minor

@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "posts/thecase25/index.html",
+    "href": "posts/thecase25/index.html",
+    "title": "The Power of Pop - First Place and Best Presentation Award Winner",
+    "section": "",
+    "text": "2025 Temple University T.H.E. (Tourism, Hospitality, and Events) Analytics Case Competition.\nWorked with a real-world hotel dataset to quantify the impact of local events pop star concerts and festivals on hotel performance. Built an event calendar + KPI framework (occupancy, ADR, Revenue PAR) to identify lift, timing effects (lead/lag), and differences by event type. Summarized insights in a presentation and proposed revenue-management actions (dynamic pricing, targeted promos, staffing adjustments).\n\nView Project Here\nView Code Here"
+  },
+  {
+    "objectID": "posts/gymproj/index.html",
+    "href": "posts/gymproj/index.html",
+    "title": "Gym",
+    "section": "",
+    "text": "For my STAT 2521 group project, We analyzed a gym workout dataset of male and female members (ages 18–59) containing both fitness/vitals metrics (e.g., height, weight, BMI, BPM, calories burned, water intake) and workout descriptors (workout type, session duration, frequency, experience level).Using R-style statistical workflows and presentation-ready visualizations, we combined exploratory analysis with inferential methods (t-tests, chi-squared tests, simple linear regression, and multiple regression) to study what drives calories burned and BMI.Key results showed a strong positive relationship between session duration and calories burned (with duration remaining a major predictor even after adding other variables), plus additional effects from factors like gender, heart-rate metrics, and body measurements; BMI alone was not a strong predictor in a simple regression, but showed evidence of association when grouped into categories.\n View Project 1 Here\n View Project 2 Here"
+  },
+  {
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "My Portfolio",
+    "section": "",
+    "text": "The Anatomy of Temple’s Success - Secound Place and Best Data Visulization\n\n\n\nStatistics\n\nR\n\nAnalysis\n\n\n\n\n\n\n\n\n\nNov 18, 2025\n\n\nBenjamin Taraba, Ryan Watkins, Francesco Candiani, Ruan Pablo & Cameron Jackson\n\n\n\n\n\n\n\n\n\n\n\n\nThe Power of Pop - First Place and Best Presentation Award Winner\n\n\n\nStatistics\n\nR\n\nAnalysis\n\n\n\n\n\n\n\n\n\nApr 15, 2025\n\n\nBenjamin Taraba & Patrick Obal\n\n\n\n\n\n\n\n\n\n\n\n\nCaffeine Effects on Reaction Time\n\n\n\nStatistics\n\nAnalysis\n\n\n\n\n\n\n\n\n\nDec 9, 2024\n\n\nBenjamin Taraba, Reem Alhazmi, Jennifer Vaughn, Eli Howell, and Nick Ogden\n\n\n\n\n\n\n\n\n\n\n\n\nGym\n\n\n\nStatistics\n\nR\n\nAnalysis\n\n\n\n\n\n\n\n\n\nDec 2, 2024\n\n\nBy Benjamin Taraba, Maureen Carpenter, and Sammy Motlak\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Benjamin Taraba",
+    "section": "",
+    "text": "Beta Gamma Sigma Honor Society | Senior at Temple University | Finance Major and Business Analytics Minor"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "index_old.html",
+    "href": "index_old.html",
+    "title": "My_Website",
+    "section": "",
+    "text": "The Anatomy of Temple’s Success - Secound Place and Best Data Visulization\n\n\n\nStatistics\n\nR\n\nAnalysis\n\n\n\n\n\n\n\n\n\nNov 18, 2025\n\n\nBenjamin Taraba, Ryan Watkins, Francesco Candiani, Ruan Pablo & Cameron Jackson\n\n\n\n\n\n\n\n\n\n\n\n\nThe Power of Pop - First Place and Best Presentation Award Winner\n\n\n\nStatistics\n\nR\n\nAnalysis\n\n\n\n\n\n\n\n\n\nApr 15, 2025\n\n\nBenjamin Taraba & Patrick Obal\n\n\n\n\n\n\n\n\n\n\n\n\nCaffeine Effects on Reaction Time\n\n\n\nStatistics\n\nAnalysis\n\n\n\n\n\n\n\n\n\nDec 9, 2024\n\n\nBenjamin Taraba, Reem Alhazmi, Jennifer Vaughn, Eli Howell, and Nick Ogden\n\n\n\n\n\n\n\n\n\n\n\n\nGym\n\n\n\nStatistics\n\nR\n\nAnalysis\n\n\n\n\n\n\n\n\n\nDec 2, 2024\n\n\nBy Benjamin Taraba, Maureen Carpenter, and Sammy Motlak\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/coffee/index.html",
+    "href": "posts/coffee/index.html",
+    "title": "Caffeine Effects on Reaction Time",
+    "section": "",
+    "text": "This project was developed to evaluate a common performance claim, whether caffeine measurably improves reaction time, and to determine whether any effect varies by the time elapsed after consumption. To test this, we designed a controlled two-factor experiment with three caffeine dose levels (0 mg, 100 mg, 200 mg) and three post-consumption testing intervals (15, 30, and 60 minutes). Reaction time was selected as the outcome variable due to its objective measurability using a standardized digital test (Just Park Reaction Time Test). To strengthen validity and reduce variability, participants were assigned to conditions using randomization, testing was conducted in a distraction-free environment, and multiple trials per condition were averaged to produce a more reliable reaction-time measure."
+  },
+  {
+    "objectID": "posts/sportscase25/index.html",
+    "href": "posts/sportscase25/index.html",
+    "title": "The Anatomy of Temple’s Success - Secound Place and Best Data Visulization",
+    "section": "",
+    "text": "Temple University’s Third Annual City of Brotherly Stats Sport Analytics Case Competition\nWe analyzed Temple’s offense for Temple University’s Third Annual City of Brotherly Stats Sport Analytics Case Competition using 2022 FBS play-by-play data, defining success by down-and-distance (40% on 1st, 60% on 2nd, convert on 3rd/4th), which yielded a 39.21% success rate (329/839). I then built a play-by-play win probability model (final margin ~ Normal with mean tied to the Vegas spread and σ≈18.41) and computed win probability added as the pre/post change each play and drive win probability added as the sum across a drive, showing 5+ play drives were most consistently positive. Results indicated Temple was most successful when passing, in shotgun, and with specialized personnel, while pressure, later downs, and long-to-go hurt efficiency—supporting recommendations focused on pass-forward sequencing, better protection, and early-down efficiency.\nView Code Here\n\nView Project Here"
+  }
+]
