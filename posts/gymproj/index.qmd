@@ -1,15 +1,12 @@
 ---
-title: "Gym"
+title: "Exploratory Analysis of Gym Performance Metrics"
 author: "By Benjamin Taraba, Maureen Carpenter, and Sammy Motlak"
 date: "2024-12-2"
 categories: [Statistics, R, Analysis]
-
 ---
 
 For my STAT 2521 group project, We analyzed a gym workout dataset of male and female members (ages 18–59) containing both fitness/vitals metrics (e.g., height, weight, BMI, BPM, calories burned, water intake) and workout descriptors (workout type, session duration, frequency, experience level).Using R-style statistical workflows and presentation-ready visualizations, we combined exploratory analysis with inferential methods (t-tests, chi-squared tests, simple linear regression, and multiple regression) to study what drives calories burned and BMI.Key results showed a strong positive relationship between session duration and calories burned (with duration remaining a major predictor even after adding other variables), plus additional effects from factors like gender, heart-rate metrics, and body measurements; BMI alone was not a strong predictor in a simple regression, but showed evidence of association when grouped into categories.
 
-![](GymProj1.pdf){width=100% height=1000px}
-[View Project 1 Here ](GymProj1.pdf){target="_blank"}
+![](GymProj1.pdf){width="100%" height="1000px"} [View Project 1 Here](GymProj1.pdf){target="_blank"}
 
-![](GymProj2.pdf){width=100% height=1000px}
-[View Project 2 Here ](GymProj2.pdf){target="_blank"}
+![](GymProj2.pdf){width="100%" height="1000px"} [View Project 2 Here](GymProj2.pdf){target="_blank"}
