@@ -6,6 +6,9 @@ categories: [Statistics, R, Analysis]
 image: "THE data analytics comp_page-0001.jpg"
 ---
 
+
+ ![](THE data analytics comp_page-0001.jpg) ![](The_case_comp_cert.png)
+ 
 2026 Temple University T.H.E. (Tourism, Hospitality, and Events) Analytics Case Competition.
 Bookings & Bowl Games: Quantifying the Hotel Impact of College Football
 
