@@ -24,7 +24,7 @@ The results showed that bowl games significantly increase RevPAR and occupancy r
 In total, the project estimated that bowl games and their surrounding halo period generate more than $8 million in incremental hotel revenue, highlighting their importance as multi-day economic drivers. Beyond the quantitative findings, this work emphasized the importance of data storytelling, translating complex statistical outputs into clear, actionable recommendations for hoteliers, event organizers, and policymakers.
 
 
-<span style="font-size:24px;">[View Code Here](https://github.com/bentaraba/bentaraba.github.io){target="_blank"}</span>
+<span style="font-size:24px;">[View Code Here](https://github.com/bentaraba/bentaraba.github.io/blob/main/THE%20Case%20Comp%20II.R){target="_blank"}</span>
 
 
 ![](THE_Case_II_Bookings_and_Bowl_Games.pdf){width=100% height=1000px}
