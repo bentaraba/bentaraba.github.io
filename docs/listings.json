@@ -2,6 +2,7 @@
   {
     "listing": "/portfolio.html",
     "items": [
+      "/posts/thecase26/index.html",
       "/posts/sportscase25/index.html",
       "/posts/thecase25/index.html",
       "/posts/coffee/index.html",
@@ -11,6 +12,7 @@
   {
     "listing": "/index_old.html",
     "items": [
+      "/posts/thecase26/index.html",
       "/posts/sportscase25/index.html",
       "/posts/thecase25/index.html",
       "/posts/coffee/index.html",

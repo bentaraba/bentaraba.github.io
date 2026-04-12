@@ -3,4 +3,4 @@ title: "CV/Resume"
 format: html
 ---
 
-## ![](2026_Benjamin_Taraba_Resume.pdf){width="100%" height="1000px"}
+## ![](2026_Benjamin_Taraba_Resume_career.pdf){width="100%" height="1000px"}
