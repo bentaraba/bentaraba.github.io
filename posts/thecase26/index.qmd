@@ -4,6 +4,7 @@ author: "Benjamin Taraba & Patrick Obal"
 date: "2026-4-7"
 categories: [Statistics, R, Analysis]
 image: "THE data analytics comp_page-0001.jpg"
+description: "2026 Temple University T.H.E. (Tourism, Hospitality, and Events) Analytics Case Competition. An analysis of how college football bowl games impact hotel bookings, demand, and revenue across host cities."
 ---
 2026 Temple University T.H.E. (Tourism, Hospitality, and Events) Analytics Case Competition.
 
